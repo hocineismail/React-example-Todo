@@ -1,5 +1,5 @@
 
-# sim;ple exa;ple app TODO
+# simple example app TODO using react
 
 An example of how to upload images locally with Node.js express and Multer.
 
