@@ -1,7 +1,7 @@
 
 # simple example app TODO using react
 
-An example of how to upload images locally with Node.js express and Multer.
+An example of how to using component and context with react.js .
 
 ### Version
 1.0.0
