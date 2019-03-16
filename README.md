@@ -1,7 +1,7 @@
 
 # simple example app TODO using react
 
-An example of how to using component and context with react.js .
+An example of how to use components and context with react.js .
 
 ### Version
 1.0.0
