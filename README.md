@@ -19,10 +19,6 @@ $ npm install
 HOCINE ismail
 (https://github.com/hocineimail)
 
-### Version
-
-1.0.0
-
 
 
 ## Available Scripts
